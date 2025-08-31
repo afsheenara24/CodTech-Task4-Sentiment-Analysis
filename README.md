@@ -30,3 +30,7 @@ To classify customer reviews into **positive**, **neutral**, or **negative** sen
 - Seaborn
 - Textblob
 - Scikit-learn
+
+2.Open the Jupyter notebook:
+
+Then run `jupyter notebook sentiment_analysis.ipynb`
