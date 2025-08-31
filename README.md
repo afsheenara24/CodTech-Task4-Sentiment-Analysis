@@ -1,4 +1,4 @@
-# CodTech Internship - Task 4: Sentiment Analysis using NLP
+# Task 4: Sentiment Analysis using NLP
 
 This repository contains Task 4 of the CodTech Data Analysis Internship. It involves analyzing the sentiment of customer reviews using basic NLP techniques.
 
