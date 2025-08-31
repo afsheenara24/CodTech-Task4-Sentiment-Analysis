@@ -24,3 +24,9 @@ To classify customer reviews into **positive**, **neutral**, or **negative** sen
 
 ## 🚀 How to Run
 1. Install required libraries:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Textblob
+- Scikit-learn
