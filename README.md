@@ -33,4 +33,4 @@ To classify customer reviews into **positive**, **neutral**, or **negative** sen
 
 2.Open the Jupyter notebook:
 
-Then run `jupyter notebook sentiment_analysis.ipynb`
+-Then run `jupyter notebook sentiment_analysis.ipynb`
